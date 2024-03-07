@@ -48,7 +48,7 @@ function App() {
          {/* <button onClick={Rsethndler}>ResendOTP</button> */}
          </div> 
          <br/>
-        <button onClick={handleVerify}>Verify OTP</button>
+        {/* <button onClick={handleVerify}>Verify OTP</button> */}
       </div>
     </div>
   );
